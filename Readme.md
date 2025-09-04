@@ -10,10 +10,10 @@ npm i express
 node-fetch@3 helmet morgan
 ```
 
-**Then, to run:
+**Then, to run:**
 ```Sh
 node lovebot.mjs
 ```
-**
+
 **this is made using scratch api**
 
