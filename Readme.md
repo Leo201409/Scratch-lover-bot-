@@ -1,7 +1,7 @@
 # LoveBot #
 **This is a bot that loves/likes your scratch projects**
 **usage:**
-**Run :
+**Run :**
 ```Sh
 npm i express
 ```
